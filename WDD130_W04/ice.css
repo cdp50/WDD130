@@ -1,0 +1,16 @@
+body {
+    background-color: #FBA6C9;
+    text-align: center;
+}
+
+.pageStuff{ 
+    background-color: blue;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.pageStuff h1 {
+    color: white;
+}
+
